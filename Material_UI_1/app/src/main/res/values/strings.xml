@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Material_UI_1</string>
+    <string name="hello">Hello</string>
+    <string name="aman_kumar_gupta">Aman Kumar Gupta</string>
+    <string name="notification">Notification</string>
+    <string name="todo">TODO</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="search_for">Search For...</string>
+    <string name="upgrade_your_account">Upgrade Your Account</string>
+    <string name="to_get_unlimited">To Get Unlimited</string>
+    <string name="inbox">Inbox</string>
+    <string name="maps">Maps</string>
+    <string name="chats">Chats</string>
+    <string name="forget_your_password_recovery_it">Forget your password? Recovery it</string>
+</resources>
